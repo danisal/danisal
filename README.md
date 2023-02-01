@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Daniel, a Portuguese developer that loves creating beautiful, useful and accessible software! Excited to be working with React and GraphQL
+My name is Daniel, a Portuguese developer that loves creating beautiful, useful and accessible software! Excited to be working with React, GraphQL and TypeScript.
 
 I’m currently working on [Crystallize App](https://app.crystallize.com/) a product by [Crystallize](https://www.crystallize.com) among other internal projects!
 
